@@ -1,3 +1,6 @@
+PROFESOR  ALBERTO CORTEZ EN ESTE ANGULAR SOLO ME FALTA TERMINAR LO DE STATS DEBIDO QUE NO SE CARGA LAS DEPENDENCIAS NECESARIAS PARA HACERLO SALTA ERROR AL INSTALARLO 
+
+
 # Finalprogramacion2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.9.
